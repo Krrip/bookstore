@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4178ee4-0301-4dc0-bb4a-8dba1d7296a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1k2vex1ZgHmsSirlD9DRvDob4Al" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/utils" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programmer Development Notes\MyProject\bookstores2\src\utils" />
+      <recent name="D:\Programmer Development Notes\MyProject\bookstores2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programmer Development Notes\MyProject\bookstores2\src\views" />
+      <recent name="D:\Programmer Development Notes\MyProject\bookstores2\src\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestUpdateOrderState in bookstores2/src/test">
+    <configuration name="TestFindAllOrder in bookstores2/src/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstores2" />
+      <working_directory value="$PROJECT_DIR$/src/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="bookstores2/src/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFindAllOrder\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFindAllOrderByUserId in bookstores2/src/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstores2" />
+      <working_directory value="$PROJECT_DIR$/src/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="bookstores2/src/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFindAllOrderByUserId\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFindByName in bookstores2/src/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstores2" />
+      <working_directory value="$PROJECT_DIR$/src/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="bookstores2/src/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFindByName\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFindOrderInfo in bookstores2/src/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstores2" />
+      <working_directory value="$PROJECT_DIR$/src/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="bookstores2/src/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFindOrderInfo\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUpdateOrderState in bookstores2/src/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstores2" />
+      <working_directory value="$PROJECT_DIR$/src/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="bookstores2/src/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestUpdateOrderState\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestUpdateOrderState in bookstores2/src/test" />
+        <item itemvalue="Go Test.TestFindOrderInfo in bookstores2/src/test" />
+        <item itemvalue="Go Test.TestFindAllOrder in bookstores2/src/test" />
+        <item itemvalue="Go Test.TestFindAllOrderByUserId in bookstores2/src/test" />
+        <item itemvalue="Go Test.TestFindByName in bookstores2/src/test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1289" y="534" key="#SQL_Dialects" timestamp="1604912949775">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1289" y="534" key="#SQL_Dialects/0.0.2560.1400@0.0.2560.1400" timestamp="1604912949775" />
+    <state x="1512" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604912854182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604912854182" />
+    <state x="1803" y="552" key="EnvironmentVariablesDialog" timestamp="1604969170298">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1803" y="552" key="EnvironmentVariablesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604969170298" />
+    <state x="1700" y="454" key="FileChooserDialogImpl" timestamp="1605324994674">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605324994674" />
+    <state width="2517" height="423" key="GridCell.Tab.0.bottom" timestamp="1605441495425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="423" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605441495425" />
+    <state width="2517" height="423" key="GridCell.Tab.0.center" timestamp="1605441495425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="423" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605441495425" />
+    <state width="2517" height="423" key="GridCell.Tab.0.left" timestamp="1605441495425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="423" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605441495425" />
+    <state width="2517" height="423" key="GridCell.Tab.0.right" timestamp="1605441495425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="423" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605441495425" />
+    <state width="2517" height="423" key="GridCell.Tab.1.bottom" timestamp="1605441495425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="423" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605441495425" />
+    <state width="2517" height="423" key="GridCell.Tab.1.center" timestamp="1605441495425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="423" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605441495425" />
+    <state width="2517" height="423" key="GridCell.Tab.1.left" timestamp="1605441495425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="423" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605441495425" />
+    <state width="2517" height="423" key="GridCell.Tab.1.right" timestamp="1605441495425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="423" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605441495425" />
+    <state width="234" height="540" key="HiddenNamespacesPopup" timestamp="1604912870470">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="234" height="540" key="HiddenNamespacesPopup/0.0.2560.1400@0.0.2560.1400" timestamp="1604912870470" />
+    <state x="773" y="343" key="SettingsEditor" timestamp="1606982995006">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="773" y="343" key="SettingsEditor/0.0.2560.1400/-1080.482.864.1496@0.0.2560.1400" timestamp="1606982995006" />
+    <state x="773" y="343" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605424101756" />
+    <state x="999" y="512" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1604977437854">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="999" y="512" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604977437854" />
+    <state x="706" y="284" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605361932309">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="706" y="284" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605361932309" />
+    <state x="1456" y="346" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604922619000">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1456" y="346" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1604922619000" />
+    <state x="1583" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1606014877480">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606014877480" />
+  </component>
+</project>
